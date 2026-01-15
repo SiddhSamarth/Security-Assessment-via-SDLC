@@ -46,5 +46,4 @@ This project simulates a real-world **Security Assessment** conducted for a larg
 
 ---
 
-## 🗂️ Repository Structure
 
